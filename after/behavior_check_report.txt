@@ -1,0 +1,4 @@
+PASS: unavailable equipment is rejected
+PASS: cancellation restores stock and missing IDs are handled
+PASS: reversed time slot is rejected
+PASS: JSON export is valid and reservation IDs advance correctly
